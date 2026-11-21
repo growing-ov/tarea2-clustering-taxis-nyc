@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+venv/
+
+# El dataset se descarga solo desde la CDN pública de la NYC TLC.
+# Se entrega junto al proyecto, pero no se versiona: son ~48 MB.
+data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Sistema y editores
+.DS_Store
+.vscode/
+.idea/
