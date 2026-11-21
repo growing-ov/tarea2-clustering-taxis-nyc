@@ -5,6 +5,10 @@ se ven todas sus salidas: tablas, gráficas, métricas e imágenes.
 
 ---
 
+**Repositorio:** https://github.com/growing-ov/tarea2-clustering-taxis-nyc
+
+---
+
 ## El problema en una frase
 
 Nadie ha dicho qué tipos de viaje existen en la ciudad de Nueva York. Este trabajo los descubre
